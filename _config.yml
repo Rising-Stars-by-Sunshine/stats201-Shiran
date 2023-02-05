@@ -1,4 +1,4 @@
-remote_theme: pages-themes/moonwalk
+remote_theme: pages-themes/moonwalk@v0.1.3
 plugins:
 - jekyll-remote-theme
 title: Shiran

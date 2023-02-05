@@ -23,7 +23,7 @@ His current intended major is Applied Mathematics and Computational Sciences (Co
 ## Network Analysis
 
 ### Word Cloud:
-<img src="[pic.jpeg](https://user-images.githubusercontent.com/105504535/216822771-12bf09ab-9cd1-4593-a36e-72ece75574a4.png)" width="1200" height="800" />
+![PS1_Cloud](https://user-images.githubusercontent.com/105504535/216823816-53c28888-dea5-445d-80b1-8aded7a25baa.png)
 
 ### References:
 [PS1_Ref.pdf](https://github.com/Rising-Stars-by-Sunshine/stats201-Shiran-PS1/files/10611163/PS1_Ref.pdf)

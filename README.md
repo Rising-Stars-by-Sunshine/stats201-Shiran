@@ -19,3 +19,11 @@ In 2021 (age 13), he was admitted to DKU with a full scholarship, and received t
 In 2022 (age 14), he became an X-Institute Scholar, and received the Silver Medal in the iGEM Competition.
 
 His current intended major is Applied Mathematics and Computational Sciences (Computer Science Track).
+
+## Network Analysis
+
+Word Cloud:
+![PS1_Cloud](https://user-images.githubusercontent.com/105504535/216822771-12bf09ab-9cd1-4593-a36e-72ece75574a4.png)
+
+References:
+[PS1_Ref.pdf](https://github.com/Rising-Stars-by-Sunshine/stats201-Shiran-PS1/files/10611163/PS1_Ref.pdf)

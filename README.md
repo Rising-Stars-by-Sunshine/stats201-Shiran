@@ -22,8 +22,13 @@ His current intended major is Applied Mathematics and Computational Sciences (Co
 
 ## Network Analysis
 
+In this network analysis I analyzed the titles of 60 papers on Tensor Completion and some related topics, which I am currently doing research on. Please note that the set of papers is by no means complete, and may be biased by my personal research interests. 
+
 ### Word Cloud:
-![PS1_Cloud](https://user-images.githubusercontent.com/105504535/216823816-53c28888-dea5-445d-80b1-8aded7a25baa.png)
+![spotlight1](https://user-images.githubusercontent.com/105504535/216887767-186680ba-1160-4131-b9b5-b8aabc65c19f.png)
+
+### Bigram Network:
+![spotlight2](https://user-images.githubusercontent.com/105504535/216887779-4a8ac845-db2b-41fb-8e28-fad5ba0f462c.png)
 
 ### References:
 [PS1_Ref.pdf](https://github.com/Rising-Stars-by-Sunshine/stats201-Shiran-PS1/files/10611163/PS1_Ref.pdf)
